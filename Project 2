@@ -1,0 +1,5 @@
+ Covid-19 Dashboard Creation Using Tableau
+ I have taken the real time data of covid-19 in my first sql_Portfolio_Project .
+ Performed data cleaning and EDA on it.
+ Then the excel file containing cleaned data is extracted into Tableau.
+ I have created the Covid-19 dashboard where we can forcast the death rate , infection rate .
